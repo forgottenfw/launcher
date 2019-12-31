@@ -24,6 +24,7 @@ Now next time you press play it will check for updates and launch!
 
  - Make patchnotes more accessible.
  - Pause/Resume (not high priority)
+ - Add time remaining underneath download progress bar.
 
 # License
 
