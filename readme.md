@@ -26,6 +26,10 @@ Now next time you press play it will check for updates and launch!
  - Pause/Resume (not high priority)
  - Add time remaining underneath download progress bar.
 
+### Feature Requests
+
+If you have any feature requests please create an issue detailing the feature that you want added, an example eg: picture (not necessary). Please be aware that not all features will make it to the launcher.
+
 # License
 
 Released under no license, therefore here are the terms you have to follow:
