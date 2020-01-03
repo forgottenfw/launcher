@@ -22,8 +22,8 @@ Now next time you press play it will check for updates and launch!
 
 ### Todos
 
- - Make patchnotes more accessible.
- - Pause/Resume (not high priority)
+ - ~~Make patchnotes more accessible.~~ Added future release v1.1.0
+ - ~~Pause/Resume (not high priority)~~ Might be added v1.1.0
  - Add time remaining underneath download progress bar.
 
 ### Feature Requests
