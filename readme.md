@@ -1,3 +1,6 @@
+### ANYTHING SUGGESTED FROM NOW ON WONT BE FIXED
+
+
 [![Discord](https://media.discordapp.net/attachments/564103372471402496/661415340613304321/fest2.png)](http://discord.gg/8nG3FkS)
 
 <p align="center">
