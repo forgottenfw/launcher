@@ -41,9 +41,11 @@ Released under no license, therefore here are the terms you have to follow:
 
 > We are not liable for any claims, damage or other liabilities that come from using the specified program.
 
-> You may not redistribute the launcher commercial without permission from the author.
+> You may not redistribute the launcher commercially without permission from the author.
 
 > You may not rebrand the launcher without permission from the author.
+
+> You may not use snippets of code from the launcher/all of the code.
 
 
 
